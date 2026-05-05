@@ -62,6 +62,12 @@ Data is directly accessed and modified.
 
 ---
 
+## Procedural Code
+
+Link : https://github.com/aqsamustafa101-cell/Procedural_Code
+
+---
+
 # 🔷 Object-Oriented Programming (OOP)
 
 ## 📖 Definition
@@ -132,6 +138,12 @@ class Student extends Person
 * Code reuse
 * Less duplication
 * Easy maintenance
+
+---
+
+## OOP BASE Code :
+
+Link : https://github.com/aqsamustafa101-cell/OOP_Base_Code
 
 ---
 
